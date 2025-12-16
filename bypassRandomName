@@ -10,3 +10,4 @@ function bypass(){
 }
 
     getStateNode().setState({isRandom: false});
+})();
